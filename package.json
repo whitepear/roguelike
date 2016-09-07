@@ -1,0 +1,27 @@
+{
+  "name": "roguelike",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp coursework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitepear/roguelike.git"
+  },
+  "keywords": [
+    "React",
+    "javascript",
+    "Redux",
+    "roguelike",
+    "freecodecamp",
+    "npm"
+  ],
+  "author": "whitepear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitepear/roguelike/issues"
+  },
+  "homepage": "https://github.com/whitepear/roguelike#readme"
+}
