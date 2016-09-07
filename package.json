@@ -4,7 +4,8 @@
   "description": "FreeCodeCamp coursework.",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
